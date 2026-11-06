@@ -1,10 +1,10 @@
 # Clean Code y Relaciones de diagramas de clase en UML
 #### Grupo Nro 7
 #### Integrantes:
-#### AGUINSACA IÑEGUEZ EVELYN LISSETTE
-BELTRÁN RAMÍREZ CAMILA ANABEL
-CONTENTO CUENCA JONATHAN GERARDO
-JARAMILLO JARAMILLO YULEISY CECIBEL
+#### Aguinsaca Iñeguez Evelyn Lissette
+#### Beltrán Ramírez Camila Anabel
+#### Contento Cuenca Jonathan Gerardo
+#### Jaramillo Jaramillo Yuleisy Cecibel
 
 
 #### Ejercicio práctico:
