@@ -1,1 +1,9 @@
 # Clean-Code-y-Relaciones-de-diagramas-de-clase-en-UML
+
+#### Ejercicio práctico:
+##### Refactorización con Clean Code 
+📂 [Clases_Refactorizacion](https://github.com/camilabeltranr05-blip/Clean-Code-y-Relaciones-de-diagramas-de-clase-en-UML/tree/b936c4ad2392423d009d9ccc79b374dfdf583840/src/main/java/edu/unl/cc/domain/refactorizacion)
+
+##### Ejecutor Refactorización 
+
+▶️ [Ejecutor](https://github.com/camilabeltranr05-blip/Clean-Code-y-Relaciones-de-diagramas-de-clase-en-UML/tree/b936c4ad2392423d009d9ccc79b374dfdf583840/src/main/java/edu/unl/cc/view)
